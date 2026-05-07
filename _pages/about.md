@@ -15,4 +15,4 @@ I approach my work primarily from a quantitative social science perspective, lev
 
 My work has been published in journals such as Communication Research Reports, New Media and Society, and Media Psychology. I have presented at annual conferences of the International Communication Association (ICA) and the National Communication Association (NCA). 
 
-Before joining UCSB, I received my M.A. in Communication from Michigan State University in 2023 and my B.A. in Media and Communication from City University of Hong Kong in 2020. 
+Before joining UCSB, I received my M.A. in Communication from [Michigan State University](https://comartsci.msu.edu/departments/communication) in 2023 and my B.A. in Media and Communication from [City University of Hong Kong](https://www.cityu.edu.hk/com/) in 2020. 
