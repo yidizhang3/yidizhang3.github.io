@@ -23,7 +23,7 @@ repository               : "yidizhang3/yidizhang3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/headshot.jpg"
+  avatar           : "images/headshot.jpg"
   name             : "Yidi Zhang"
   pronouns         :  "she/her"  
   bio              : "Ph.D. Candidate in Communication"
