@@ -27,8 +27,8 @@ author:
   name             : "Yidi Zhang"
   pronouns         :  "she/her"  
   bio              : "Ph.D. Candidate in Communication"
-  location         : "Santa Barbara, CA"
-  employer         : "University of California, Santa Barbara"
+ # location         : "Santa Barbara, CA"
+  employer         : "UC, Santa Barbara"
   uri              : # URL
   email            : "yidizhang@ucsb.edu" 
 
