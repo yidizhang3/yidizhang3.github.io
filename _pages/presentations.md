@@ -27,4 +27,4 @@ Selected Presentations
 - Wang, M., **Zhang, Y.**, & Wang, L. H. (2026). Advancing the Use of Latent Transition Analysis (LTA) in Communication Scholarship: An Application to Map Shifts in Privacy Protection Motivation. *76th Annual International Communication Association Conference (ICA 2026)*, Cape Town, South Africa.
 - Schmälzle, R., Ye, Q., **Zhang, Y.**, Yoon, H., Liu, H., Delle, F., Lewin, K., Jahn, N., & Long, J. (2022). Moment-by-moment tracking of brain responses to an engaging story: A replication study using forward and reverse correlation to study narrative reception. *National Communication Association’s 108th Annual Conference (NCA 2022)*. New Orleans, LA, United States.
 
-- 
+  
