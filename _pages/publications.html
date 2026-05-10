@@ -9,28 +9,27 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+## Online Hate and Counterspeech
+Yang, Y., Lange, R., **Zhang, Y.**, & Walther, J. B. (2025). How Social Responses to Online Hate Messages Affect Hatefulness 
+New Media & Society [DOI](https://doi.org/10.1177/14614448251396951)
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Computer-Mediated Communication
+**Zhang, Y.**, & Van Der Heide, B. (2026). How observing interactions online affects attitudes and behavioral intention toward online social support: A vicarious interactions perspective. 
+Communication Research Reports [DOI](https://doi.org/10.1080/08824096.2025.2589105)
 
+Pham, D., Van Der Heide, B., **Zhang, Y.**, Earle, K., Rathjens, B., Ulusoy, E., Mason, A. J., & Bredland, A. (2025). Testing the effects of providing feedback on perceiving selective self-presentations in computer-mediated communication. 
+Media Psychology [DOI](https://doi.org/10.1080/15213269.2024.2418641)
 
+Rathjens, B., Van Der Heide, B., Earle, K., Ulusoy, E., Pham, D., Mason, A. J., **Zhang, Y.**, & Bredland, A. (2022). Negative online reviews and manager response: Applying expectancy disconfirmation theory in a CMC context. 
+Communication Reports [DOI](https://doi.org/10.1080/08934215.2022.2154815)
 
+## Interpersonal Communication & Social Support
+Holmstrom, A., Shebib, S., Hu, J., Lim, J., Zhang, Y., Bredland, A., Mazur, A., Mason, A., Allard, A., Boumis, J., Schulte, H., Ha, J., Wolfe, B., Szczypka, M., Wu, P., **Zhang, Y.**, Cui, X., & Zhang, L. (2026). Theoretical distinctions between emotional and esteem-support messages: Examining effects and mediating mechanisms. 
+Communication Research [DOI](https://doi.org/10.1177/00936502261426538)
+
+## Statistics and Methodology
+Yik, B. J., **Zhang, Y.**, Nylund-Gibson, K., Ing, M., Krawiec, L., Houck, J. D., & Nacsa, E. D. (2026). Exploring heterogeneity in chemistry education research: comparing cluster analysis and latent profile analysis. 
+Chemistry Education Research and Practice [DOI](https://doi.org/10.1039/D5RP00432B)
+
+Schmälzle, R., Liu, H., Delle, F., Lewin, K., Jahn, N., **Zhang, Y.**, Yoon, H., & Long, J. (2024). Moment-by-moment tracking of audience brain responses to an engaging public speech: Replicating the reverse-message engineering approach. 
+Communication Monographs [DOI](https://doi.org/10.1080/03637751.2023.2240398)
