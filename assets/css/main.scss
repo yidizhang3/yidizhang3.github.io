@@ -42,3 +42,32 @@
     "vendor/font-awesome/brands"
 ;
 
+@media screen and (max-width: 768px) {
+  .greedy-nav .visible-links {
+    display: none;
+  }
+
+  .greedy-nav .hidden-links {
+    display: none;
+  }
+
+  .greedy-nav .hidden-links.hidden {
+    display: none;
+  }
+
+  .greedy-nav .hidden-links:not(.hidden) {
+    display: block;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: white;
+    width: 220px;
+    z-index: 9999;
+    box-shadow: 0 2px 8px rgba(0,0,0,.15);
+  }
+
+  .greedy-nav .hidden-links li {
+    display: block;
+    padding: 12px 16px;
+  }
+}
