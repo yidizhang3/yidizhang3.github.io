@@ -10,17 +10,21 @@ University of California, Santa Barbara
 - COMM191: Applying Communication to Internships in Organizations (Winter 2026)
 
 An upper-division internship course designed to help students connect communication theory with workplace experiences and organizational life. The course emphasized experiential learning, organizational communication, professional development, and career preparation through reflective discussion posts, e-portfolios, LinkedIn analysis, negotiation activities, and job-crafting projects. Students applied communication research and theory to analyze organizational culture, socialization, workplace diversity, and professional identity development.
+
 [syllabus](/files/COMM191_26W_Zhang.pdf)
 
 - COMM185: Communication Technology and Relationship (Summer 2025)
 
 An upper-division course examining how communication technologies shape interpersonal, group, and organizational relationships in mediated contexts. The course introduced major theories of computer-mediated communication and explored topics including impression formation, online dating, social support, online hate, AI-mediated communication, and social media influence. Students engaged critically with theoretical readings and developed applications of communication theory to contemporary digital communication phenomena. 
+
 [syllabus](/files/COMM185_Syllabus_25MA_Zhang.pdf)
 
 - COMM1: Introduction to Communication (Summer 2024)
 
 An introductory communication course covering fundamental theories and contexts of human communication, including verbal, nonverbal, interpersonal, group, organizational, intercultural, mediated, and persuasive communication. The course emphasized applying communication concepts to everyday life through analytical writing assignments, discussion sections, and activities focused on communication in digital and organizational environments.
+
 [syllabus](/files/COMM1_Syllabus_24MB_Zhang.pdf )
+
 
 ## Teaching Assistant
 University of California, Santa Barbara 
@@ -35,6 +39,7 @@ Michigan State University
 
 City University of Hong Kong	
 - COM2105: Visual Communication (Fall 2019) 
+
 
 ## Guest Lectures
 University of California, Santa Barbara
