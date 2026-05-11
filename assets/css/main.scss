@@ -41,3 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  visibility: visible !important;
+  overflow: visible !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+.greedy-nav__toggle {
+  display: none !important;
+}
