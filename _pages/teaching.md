@@ -15,12 +15,12 @@ An upper-division internship course designed to help students connect communicat
 - COMM185: Communication Technology and Relationship (Summer 2025)
 
 An upper-division course examining how communication technologies shape interpersonal, group, and organizational relationships in mediated contexts. The course introduced major theories of computer-mediated communication and explored topics including impression formation, online dating, social support, online hate, AI-mediated communication, and social media influence. Students engaged critically with theoretical readings and developed applications of communication theory to contemporary digital communication phenomena. 
-[syllabus](/files/COMM185 Syllabus 25M-A Zhang.pdf)
+[syllabus](/files/COMM185_Syllabus_25MA_Zhang.pdf)
 
 - COMM1: Introduction to Communication (Summer 2024)
 
 An introductory communication course covering fundamental theories and contexts of human communication, including verbal, nonverbal, interpersonal, group, organizational, intercultural, mediated, and persuasive communication. The course emphasized applying communication concepts to everyday life through analytical writing assignments, discussion sections, and activities focused on communication in digital and organizational environments.
-[syllabus](/files/COMM1 Syllabus 24M-B Zhang.pdf)
+[syllabus](/files/COMM1_Syllabus_24MB_Zhang.pdf )
 
 ## Teaching Assistant
 University of California, Santa Barbara 
