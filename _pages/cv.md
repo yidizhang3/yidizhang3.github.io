@@ -9,5 +9,7 @@ redirect_from:
 
 Please find my CV below.
 
+[Open or download CV](/files/0512.pdf){:target="_blank"}
+
 <iframe src="/files/0512.pdf" width="100%" height="1000px">
 </iframe>
