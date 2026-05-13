@@ -30,3 +30,9 @@ author_profile: true
 - Yik, B. J., **Zhang, Y.**, Nylund-Gibson, K., Ing, M., Krawiec, L., Houck, J. D., & Nacsa, E. D. (2026). Exploring heterogeneity in chemistry education research: Comparing cluster analysis and latent profile analysis. *Chemistry Education Research and Practice*. [DOI](https://doi.org/10.1039/D5RP00432B)
 
 - Schmälzle, R., Liu, H., Delle, F., Lewin, K., Jahn, N., **Zhang, Y.**, Yoon, H., & Long, J. (2024). Moment-by-moment tracking of audience brain responses to an engaging public speech: Replicating the reverse-message engineering approach. *Communication Monographs*. [DOI](https://doi.org/10.1080/03637751.2023.2240398)
+
+## Works Under Review
+- **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. Paper submitted to *Annals of the International Communication Association*. 
+
+-Li, Z., Qin, J., Nan, Y., **Zhang, Y.**, Baum, M. A., Subramanian, S. V., & Viswanath, K. (under review). How does health misinformation shape vaccination outcomes? A meta-analysis. Paper submitted to *Journal of the American Medical Informatics Association*. 
+
