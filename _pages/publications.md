@@ -34,5 +34,5 @@ author_profile: true
 ## Works Under Review
 - **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. Paper submitted to *Annals of the International Communication Association*. 
 
--Li, Z., Qin, J., Nan, Y., **Zhang, Y.**, Baum, M. A., Subramanian, S. V., & Viswanath, K. (under review). How does health misinformation shape vaccination outcomes? A meta-analysis. Paper submitted to *Journal of the American Medical Informatics Association*. 
+- Li, Z., Qin, J., Nan, Y., **Zhang, Y.**, Baum, M. A., Subramanian, S. V., & Viswanath, K. (under review). How does health misinformation shape vaccination outcomes? A meta-analysis. Paper submitted to *Journal of the American Medical Informatics Association*. 
 
