@@ -23,6 +23,8 @@ author_profile: true
 
 - Walther, J. B., **Zhang, Y**., Garcia, E., & Rosen, Z. (in progress). Counterspeech effectiveness: A field experiment.
 
+- Walther, J. B., **Zhang, Y**., & Garcia, E. (in progress). Literature review on counterspeech to deter online hate. 
+
 - **Zhang, Y**. (in progress). Attention or attraction? Exploring the effectiveness of humorous counterspeech to deter haters. 
 
 ## Computer-Mediated Communication
