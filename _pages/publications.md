@@ -45,19 +45,13 @@ Examines how cues and affordances in mediated contexts shape self-presentation, 
 
 ## Interpersonal Communication & Social Support
 
-Contributes to theoretical development in interpersonal communication, with a focus on social support processes and message effects.
-
 - Holmstrom, A., Shebib, S., Hu, J., Lim, J., Zhang, Y., Bredland, A., Mazur, A., Mason, A., Allard, A., Boumis, J., Schulte, H., Ha, J., Wolfe, B., Szczypka, M., Wu, P., **Zhang, Y.**, Cui, X., & Zhang, L. (2026). Theoretical distinctions between emotional and esteem-support messages: Examining effects and mediating mechanisms. *Communication Research*. [DOI](https://doi.org/10.1177/00936502261426538)
 
 ## Intergroup Communication
 
-Examines how identity, categorization, and group dynamics shape interaction in online communities.
-
 - **Zhang, Y**. (in progress). Lost in identities: A computational approach to refine identities in online communities.
   
 ## Statistics and Research Methods
-
-Applies advanced quantitative methods, including mixture modeling and meta-analysis, to social science and STEM education.
 
 - Yik, B. J., **Zhang, Y.**, Nylund-Gibson, K., Ing, M., Krawiec, L., Houck, J. D., & Nacsa, E. D. (2026). Exploring heterogeneity in chemistry education research: Comparing cluster analysis and latent profile analysis. *Chemistry Education Research and Practice*. [DOI](https://doi.org/10.1039/D5RP00432B)
 
