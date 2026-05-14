@@ -56,4 +56,4 @@ author_profile: true
 - Wang, M., **Zhang, Y**., & Wang, L. H. (in progress). Advancing the use of latent transition analysis (LTA) in communication scholarship: An application to map shifts in privacy protection motivation. 
 
 
-### Selected Presentations
+# Selected Presentations
