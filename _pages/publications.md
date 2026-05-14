@@ -35,7 +35,7 @@ author_profile: true
 
 - Rathjens, B., Van Der Heide, B., Earle, K., Ulusoy, E., Pham, D., Mason, A. J., **Zhang, Y.**, & Bredland, A. (2022). Negative online reviews and manager response: Applying expectancy disconfirmation theory in a CMC context. *Communication Reports*. [DOI](https://doi.org/10.1080/08934215.2022.2154815)
 
-- **Zhang, Y**. (in progress). Lost in identities: A computational approach to refine identities in online communities.
+- **Zhang, Y**. (in progress). Can editable sources affect people’s trust in online information? Exploring editability affordance on social media. 
 
 - **Zhang, Y^**., & Wang, L. H^. (in progress). Number of friends or mutual friends? Testing effects of different types of system generated cues on impression formation on SNS. (^ shared first authorship)
 
@@ -45,8 +45,8 @@ author_profile: true
 
 ## Intergroup Communication
 
-- **Zhang, Y**. (in progress). Can editable sources affect people’s trust in online information? Exploring editability affordance on social media. 
-
+- **Zhang, Y**. (in progress). Lost in identities: A computational approach to refine identities in online communities.
+  
 ## Statistics and Methodology
 
 - Yik, B. J., **Zhang, Y.**, Nylund-Gibson, K., Ing, M., Krawiec, L., Houck, J. D., & Nacsa, E. D. (2026). Exploring heterogeneity in chemistry education research: Comparing cluster analysis and latent profile analysis. *Chemistry Education Research and Practice*. [DOI](https://doi.org/10.1039/D5RP00432B)
