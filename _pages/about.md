@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a doctoral candidate in the [Department of Communication](https://www.comm.ucsb.edu/home) at University of California, Santa Barbara, where I am fortunate to be advised by [Prof. Joe Walther](https://comm.ucsb.edu/people/joe-walther). As a theory-driven scholar, I explore the social influence of communication technologies and how mediated communication changes people's interpersonal and group interactions.
+Welcome to my homepage! I am a doctoral candidate in the [Department of Communication](https://www.comm.ucsb.edu/home) at University of California, Santa Barbara, advised by [Prof. Joe Walther](https://comm.ucsb.edu/people/joe-walther). As a theory-driven scholar, I explore the social influence of communication technologies and how mediated communication changes people's interpersonal and group interactions.
 
 My research is grounded in computer-mediated communication, especially at the intersection of interpersonal and intergroup approaches. My work falls under three related agendas: 1) the reciprocal effects of self-presentation and self-identification online; 2) self-effects of communicating in mediated contexts; 3) the utility of AI as an intervention agent in online discussions. Currently, I focus on topics including vicarious interpersonal interactions, online identification and anonymity, and online hate and strategies to deter hate speech, such as counterspeech.
 
