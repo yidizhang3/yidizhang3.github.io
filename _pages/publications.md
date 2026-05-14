@@ -41,7 +41,7 @@ Examines how cues and affordances in mediated contexts shape self-presentation, 
 
 - **Zhang, Y**. (in progress). Can editable sources affect people’s trust in online information? Exploring editability affordance on social media. 
 
-- **Zhang, Y^**., & Wang, L. H^. (in progress). Number of friends or mutual friends? Testing effects of different types of system generated cues on impression formation on SNS. (^ shared first authorship)
+- **Zhang, Y**., & Wang, L. H. (in progress). Number of friends or mutual friends? Testing effects of different types of system generated cues on impression formation on SNS. (shared first authorship)
 
 ## Interpersonal Communication & Social Support
 
