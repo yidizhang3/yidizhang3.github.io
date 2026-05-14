@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my pulished work on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my published work on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 ## Online Hate and Counterspeech
@@ -55,7 +55,7 @@ Examines how identity, categorization, and group dynamics shape interaction in o
 
 - **Zhang, Y**. (in progress). Lost in identities: A computational approach to refine identities in online communities.
   
-## Statistics and Methodology
+## Statistics and Research Methods
 
 Applies advanced quantitative methods, including mixture modeling and meta-analysis, to social science and STEM education.
 
